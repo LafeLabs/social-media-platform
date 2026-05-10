@@ -4,6 +4,7 @@
     "app-store.html",
     "branch.html",
     "branch.php",
+    "cyber-tarot.html",
     "cybertron.html",
     "delete-branch.php",
     "delete-file.php",
@@ -35,7 +36,9 @@
     "save-png.php",
     "sub-woofer-mobile.html",
     "sub-woofer.html",
+    "tarot.js",
     "track-list.js",
+    "trash-tarot.html",
     "trashmagic.css",
     "upload-image.php",
     "wall.txt"
