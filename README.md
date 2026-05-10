@@ -1,2 +1,4 @@
-# social-media-platform
-a self-replicating social media platform
+# [science-instrument](https://github.com/LafeLabs/science-instrument)
+
+ - [plots.md](plots.md)
+ - [index.html](index.html)
