@@ -1,8 +1,10 @@
 [
     "README.md",
+    "album.html",
     "app-store.html",
     "branch.html",
     "branch.php",
+    "cybertron.html",
     "delete-branch.php",
     "delete-file.php",
     "delete-files.html",
@@ -10,6 +12,7 @@
     "edit-index.html",
     "file-set.json",
     "generate-file-set.php",
+    "geometron.js",
     "iconfeed.html",
     "iconfeed.json",
     "imagefeed.html",
@@ -30,6 +33,10 @@
     "replicator.php",
     "save-file.php",
     "save-png.php",
+    "sub-woofer-mobile.html",
+    "sub-woofer.html",
+    "track-list.js",
+    "trashmagic.css",
     "upload-image.php",
     "wall.txt"
 ]

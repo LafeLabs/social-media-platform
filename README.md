@@ -2,6 +2,8 @@
 
 # [social-media-platform](https://github.com/LafeLabs/social-media-platform/)
 
+## [file set replicator](https://github.com/LafeLabs/social-media-platform/blob/main/replicate-file-set.php)
+
 ## Linux Install:
 
  - [https://etcher.balena.io/#download-etcher](https://etcher.balena.io/#download-etcher)
