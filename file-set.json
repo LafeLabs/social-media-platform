@@ -24,6 +24,7 @@
     "messagefeed.html",
     "messagefeed.json",
     "qrcode.html",
+    "rainbow.js",
     "replicate-file-set.php",
     "replicate-local-file-set.php",
     "replicator.php",
